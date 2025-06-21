@@ -1,0 +1,28 @@
+[
+    {
+    "id": 1,
+    "company":"TCS",
+    "email": "dev@ui.com",
+    "title": "UI/UX developer",
+    "location": "Kolkata",
+    "status": "Applied"
+    },
+     {
+    "id": 2,
+    "company":"TCS",
+    "email": "dev@ui.com",
+    "title": "UI/UX developer",
+    "location": "Kolkata",
+    "status": "Applied"
+    },
+     {
+    "id": 3,
+    "company":"TCS",
+    "email": "dev@ui.com",
+    "title": "UI/UX developer",
+    "location": "Kolkata",
+    "status": "Applied"
+    }
+
+
+]
